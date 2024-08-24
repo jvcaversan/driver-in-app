@@ -1,0 +1,5 @@
+{
+    "eslint.enable": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.run": "onSave"
+}
